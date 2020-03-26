@@ -14,7 +14,7 @@ def generate_csv_input_file(filename="data/ex1.csv"):
 
 
 def ex1(filename="data/ex1.csv"):
-    """
+    """ex1
     Args:
         filename (string): Name of csv input file. Defaults to "data/ex1.csv".
     Returns:
